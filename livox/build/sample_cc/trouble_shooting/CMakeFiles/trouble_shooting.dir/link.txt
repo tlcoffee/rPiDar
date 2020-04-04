@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/trouble_shooting.dir/main.cpp.o  -o trouble_shooting ../../sdk_core/liblivox_sdk_static.a -lapr-1 /usr/lib/aarch64-linux-gnu/libboost_system.so 
